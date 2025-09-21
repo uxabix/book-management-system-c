@@ -55,7 +55,7 @@ The system handles operations such as listing all books, finding the oldest book
 
 ## Documentation
 
-The original documentation is provided in Polish in the file Sprawozdanie.pdf. English translation ... .
+The original documentation is provided in Polish in the file [Sprawozdanie.pdf](./Sprawozdanie.pdf). English translation ... .
 
 ## Application Overview
 
@@ -84,5 +84,11 @@ Kiryl Alishkevich
 
 This project was carried out as part of the Podstawy Programowania course during the first semester of studies at Politechnika Białostocka, completed in January 2024.
 
+License
+
+This project is licensed under the MIT License. See [LICENSE](./LICENSE)
+.
+
 ---
+
 
