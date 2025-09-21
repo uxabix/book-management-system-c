@@ -55,7 +55,7 @@ The system handles operations such as listing all books, finding the oldest book
 
 ## Documentation
 
-The original documentation is provided in Polish in the file [Sprawozdanie.pdf](./Sprawozdanie.pdf). English translation ... .
+The original documentation is provided in Polish in the file [Sprawozdanie.pdf](./Sprawozdanie.pdf). English translation [English.pdf](./English.pdf) .
 
 ## Application Overview
 
